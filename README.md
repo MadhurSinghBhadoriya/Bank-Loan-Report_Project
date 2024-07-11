@@ -1,4 +1,9 @@
-# Bank-Loan-Report_Project
+# Bank-Loan-Report_ BFSI Project
+
+• Designed and developed interactive dashboards (Summary, Overview, Details) for d Bank Loan Report application.
+• Tracked and visualized Total Loan Applications, Funded Amount, Amount Received, Interest Rates, and Debt-to-Income Ratios to identify trends and patterns across loan Status, Region, Term, Purpose, and borrower details, facilitating comprehensive evaluation of loan health and its performance.
+• Utilized various chart types (line charts, filled maps, donut charts, bar charts, tree maps) for clear and insightful representation of loan data.
+• Empowered data-driven decision making for loan approvals, strategy adjustments, and risk management by delivering user-friendly dashboards with actionable insights on loan portfolio health and profitability.
 
 Summary Dashboard
 
